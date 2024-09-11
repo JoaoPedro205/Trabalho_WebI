@@ -40,4 +40,4 @@ Tabela do Banco de Dados:
 
 ![tabela png](https://github.com/user-attachments/assets/d259ef74-354d-4896-9150-df52c963cce7)
 
-
+Obs. O banco de dados foi usado importando a tabela para o PHPmyAdmin, tabela essa que está dentro da pasta com os outros arquivos tanto de telas quanto de processamento de dados.
